@@ -1,0 +1,24 @@
+
+#Unix backup text files 
+*~
+
+#Tex auxiliary files
+*.aux
+*.log
+*.snm
+*.gz
+*.nav
+*.toc
+*.backup
+*.out
+*.blg
+*.bbl
+*.xml
+*.iml
+
+*.pyc
+*/lexique.py
+*/parser.out
+*/parsetab.py
+
+*__pycache__/*
