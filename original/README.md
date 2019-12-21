@@ -1,7 +1,7 @@
 
-#Manuel utilisateur pour le projet CYK probabiliste.
+# Manuel utilisateur pour le projet CYK probabiliste.
 
-##I - Exemple 
+## I - Exemple 
 
 Cette section présente de façon rapide l'ensemble des scripts du projet CYK probabiliste.
 En lançant les commandes présentées dans l'ordre, on obtient successivement 
